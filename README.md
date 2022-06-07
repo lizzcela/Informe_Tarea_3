@@ -488,6 +488,8 @@ Corta entre puntos 2 y 4:
 
 5. VÌDEO
 
+- https://youtu.be/_YTQ490FNcI
+
 6. CONCLUSIONES 
 
 - Dentro de los circuitos en serie la Ley de Ohm permite calcular la corriente total conociendo los valores del voltaje y de la resistencia total, por otro lado la Ley de los voltajes de Kirchhoff ayuda a calcular y determinar el voltaje total del circuito con la suma de los voltajes individuales de cada resistencia.
@@ -499,41 +501,3 @@ Corta entre puntos 2 y 4:
 - F. (2021). Principios de circuitos eléctricos, 8Ed. Pearson.
 - Padilla, Y. (01 de enero de 2018). Obtenido de http://biblioteca.usbbog.edu.co:8080/Biblioteca/BDigital/165203.pdf
 - Rocha, J. (22 de mayo de 2009). Obtenido de https://repository.unad.edu.co/handle/10596/303
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
