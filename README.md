@@ -267,13 +267,33 @@ circuito impreso.
 
 ![image](https://user-images.githubusercontent.com/105623628/172305730-5941f862-6ee7-4a8f-ac4d-d15cc1124f73.png)
 
+R1, R2 y R5 no están individualmente en paralelo con las demás resistencias. la combinación en serie de R1, R2 y R5 está en paralelo con las demás resistencias.
+
 SECCIÓN 6–2 Voltaje en un circuito en paralelo
 
 4. ¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje total es de 12 V y la resistencia total de 550 Ω? Hay cuatro resistores, todos de igual valor.
 
+![image](https://user-images.githubusercontent.com/105623628/172395883-c099f095-d380-41e4-a2b0-12e1aaf19729.png)
+
+La corriente total se divide por igual entre las cuatro resistencias paralelas iguales.
+
+![image](https://user-images.githubusercontent.com/105623628/172396185-8c707f9b-7a95-4d66-bd66-80d85ba2f46a.png)
+
 6. ¿Cuál es la resistencia total del circuito visto desde la fuente de voltaje para cada posición del interruptor incluido en la figura 6-68?
 
-![image](https://user-images.githubusercontent.com/105623628/172306096-6344af83-c442-4da4-8cf4-05bc4507dae9.png)
+![image](https://user-images.githubusercontent.com/105623628/172397182-6684cea0-b035-4bc6-8cfc-a16e0551258c.png)
+
+Posición A:
+
+![image](https://user-images.githubusercontent.com/105623628/172396533-6dce4e71-9f94-4e59-812a-3fc2c88d1f33.png)
+
+Posición B:
+
+![image](https://user-images.githubusercontent.com/105623628/172396568-c0866e66-4082-42c5-922c-12545a4fa1dc.png)
+
+Posición C:
+
+![image](https://user-images.githubusercontent.com/105623628/172396633-b6bd2e23-1934-41c6-a636-61b3b7c40d47.png)
 
 8. ¿Cuál es la corriente total suministrada por la fuente de voltaje que muestra la figura 6-68 para cada posición del interruptor?
 
