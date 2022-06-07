@@ -258,27 +258,34 @@ Si se miden 15 KΩ entre los pines 5 y 6, R3 Y R5 se cortocircuitan como se ind
 
 ![image](https://user-images.githubusercontent.com/105623628/172305014-addb5a64-8473-4d1a-b972-ec5b164754c2.png)
 
+4. RESOLUCIÓN DE PROBLEMAS CAPÍTULO 6
 
+SECCIÓN 6–1 Resistores en paralelo
 
+2. Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de
+circuito impreso.
 
+![image](https://user-images.githubusercontent.com/105623628/172305730-5941f862-6ee7-4a8f-ac4d-d15cc1124f73.png)
 
+SECCIÓN 6–2 Voltaje en un circuito en paralelo
 
+4. ¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje total es de 12 V y la resistencia total de 550 Ω? Hay cuatro resistores, todos de igual valor.
 
+6. ¿Cuál es la resistencia total del circuito visto desde la fuente de voltaje para cada posición del interruptor incluido en la figura 6-68?
 
+![image](https://user-images.githubusercontent.com/105623628/172306096-6344af83-c442-4da4-8cf4-05bc4507dae9.png)
 
+8. ¿Cuál es la corriente total suministrada por la fuente de voltaje que muestra la figura 6-68 para cada posición del interruptor?
 
+![image](https://user-images.githubusercontent.com/105623628/172306111-905e3ea1-13bf-498a-9906-df8970e4146b.png)
 
+SECCIÓN 6–3 Ley de las corrientes de Kirchhoff
 
+10. Un total de 500 mA entra a cinco resistores en paralelo. Las corrientes a través de los resistores son de:
+50 mA, 150 mA, 25 mA y 100 mA. ¿Cuál es la corriente a través del quinto resistor?
 
+12. En cierta habitación, el circuito eléctrico tiene una lámpara de cielo que consume 1.25 A y cuatro tomas de corriente de pared. Dos lámparas de mesa que consumen cada una 0.833 A están conectadas a dos tomas de corriente, y un calentador eléctrico que consume 10 A está conectado a la tercer toma de corriente. Cuando todos estos elementos están en uso, ¿cuánta corriente hay en la línea principal que abastece a la habitación? Si la línea principal está protegida por un cortacircuito de 15 A, ¿cuánta corriente puede ser absorbida de la cuarta toma de corriente? Trace un diagrama esquemático de esta instalación eléctrica.
 
-
-
-
-
-
-
-
-
-
+SECCIÓN 6–4 Resistencia total en paralelo
 
 
