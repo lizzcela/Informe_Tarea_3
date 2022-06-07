@@ -299,13 +299,64 @@ Posición C:
 
 ![image](https://user-images.githubusercontent.com/105623628/172306111-905e3ea1-13bf-498a-9906-df8970e4146b.png)
 
+Posición A:
+
+![image](https://user-images.githubusercontent.com/105623628/172397596-f30da91b-3105-469c-92fa-c207e8815811.png)
+
+Posición B:
+
+![image](https://user-images.githubusercontent.com/105623628/172397668-5040ec08-62c7-4d16-a049-4b7481938810.png)
+
+Posición C:
+
+![image](https://user-images.githubusercontent.com/105623628/172397725-3dde7b5a-9627-4026-a4e0-3046af409cd4.png)
+
 SECCIÓN 6–3 Ley de las corrientes de Kirchhoff
 
 10. Un total de 500 mA entra a cinco resistores en paralelo. Las corrientes a través de los resistores son de:
 50 mA, 150 mA, 25 mA y 100 mA. ¿Cuál es la corriente a través del quinto resistor?
 
-12. En cierta habitación, el circuito eléctrico tiene una lámpara de cielo que consume 1.25 A y cuatro tomas de corriente de pared. Dos lámparas de mesa que consumen cada una 0.833 A están conectadas a dos tomas de corriente, y un calentador eléctrico que consume 10 A está conectado a la tercer toma de corriente. Cuando todos estos elementos están en uso, ¿cuánta corriente hay en la línea principal que abastece a la habitación? Si la línea principal está protegida por un cortacircuito de 15 A, ¿cuánta corriente puede ser absorbida de la cuarta toma de corriente? Trace un diagrama esquemático de esta instalación eléctrica.
+![image](https://user-images.githubusercontent.com/105623628/172397848-58b74a17-9e77-4dff-b118-4d7dc4d90241.png)
+
+12. En cierta habitación, el circuito eléctrico tiene una lámpara de cielo que consume 1,25 A y cuatro tomas de corriente de pared. Dos lámparas de mesa que consumen cada una 0.833 A están conectadas a dos tomas de corriente, y un calentador eléctrico que consumen 10 A está conectado a la tercera toma de corriente. Cuando todos estos elementos están en uso, ¿cuánta corriente hay en la línea principal que abastece a la habitación? Si la línea principal está protegida por un cortacircuito de 15 A, ¿cuánta corriente puede ser absorbida de la cuarta toma de corriente? Trace un diagrama esquemático de esta instalación eléctrica.
+
+![image](https://user-images.githubusercontent.com/105623628/172397935-0d75742f-2b7e-4849-8cb0-9338226ea86d.png)
+
+![image](https://user-images.githubusercontent.com/105623628/172398017-01d5b9fb-5304-4029-add3-e8575332b4cc.png)
 
 SECCIÓN 6–4 Resistencia total en paralelo
+
+14. Los siguientes resistores están conectados en paralelo: 1.0 MΩ, 2.2 MΩ, 5.6 M Ω, 12 MΩ, y 22 M Ω. Determine la resistencia total.
+
+![image](https://user-images.githubusercontent.com/105623628/172398552-414fad40-b219-4dba-81b4-2ec31dbd7736.png)
+
+16. Calcule RT en cada uno de los circuitos de la figura 6-70.
+
+![image](https://user-images.githubusercontent.com/105623628/172398685-af919284-f5ca-40cb-95d2-c919c862e7a4.png)
+
+![image](https://user-images.githubusercontent.com/105623628/172398757-456ff188-0ee6-4006-a226-8515c3ffa5eb.png)
+
+18. Tres grupos, uno de cinco resistores de 470 Ω, otro de diez resistores de 100 Ω, y uno más de dos resistores de 100 Ω están conectados en paralelo. ¿Cuál es la resistencia total para cada uno de los tres agrupamientos?
+
+Cinco resistencias de 470 Ω en paralelo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
